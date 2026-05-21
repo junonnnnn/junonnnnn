@@ -26,11 +26,26 @@ A Computer Science student at Universiti Malaya passionate about competitive hac
 
 ## 💻 Tech Stack & Interests
 
-* **Languages:** Python, Kotlin, JavaScript/TypeScript, Java
-* **AI & Machine Learning:** TensorFlow/LiteRT, Google MediaPipe, Gemini & LLM Prompt Engineering, Z.AI
-* **Frameworks & Tools:** React, Node.js, JetPack Compose, Tailwind CSS
-* **Architecture:** API Decoupling, Background Worker Queues, Server-Sent Events (SSE)
+**Languages** <br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<br/>
+**AI & Frameworks** <br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-📫 **Let's Connect:** [linkedin.com/in/yong-jun-onn](#) | [yongjunonn@gmail.com](#)
+---
+
+<div align="center">
+  <h3>📫 Let's Connect</h3>
+  <a href="linkedin.com/in/yong-jun-onn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yongjunonn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
